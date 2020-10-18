@@ -1682,7 +1682,12 @@ section {
   height: 36px;
   transition: 0.3s;
 }
-
+.call{
+  color:#fff;
+}
+.call:hover{
+  color:#61c54d;
+}
 #footer .social-links a:hover {
   background: rgba(255, 255, 255, 0.2);
   color: #fff;
